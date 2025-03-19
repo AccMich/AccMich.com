@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AccMich - Accesorios Personalizados</title>
+</head>
+<body>
+
+    <h1>AccMich</h1>
+    <p><strong>Tú lo imaginas, yo lo creo.</strong></p>
+    <img src="IMG/collar.jpg" alt="Collares personalizados de AccMich" width="80">
+
+    <hr>
+
+    <h2>¿Quiénes Somos?</h2>
+    <p>AccMich es un emprendimiento unipersonal dedicado a la creación de accesorios personalizados hechos a mano con materiales de alta calidad.</p>
+
+    <h3>Misión</h3>
+    <p>Crear accesorios únicos y personalizados que reflejen la personalidad de cada cliente.</p>
+
+    <h3>Ventajas</h3>
+    <ul>
+        <li>Diseños exclusivos y personalizables.</li>
+        <li>Materiales de alta calidad.</li>
+        <li>Atención personalizada.</li>
+        <li>Entrega flexible en Toluca.</li>
+    </ul>
+
+    <hr>
+
+    <h2>Productos</h2>
+    <ul>
+        <li><strong>Collares:</strong> Perlas, cristales, iniciales, chapados en oro.</li>
+        <li><strong>Pulseras:</strong> Cristales, cuentas de murano, elásticas o de hilo.</li>
+        <li><strong>Aretes:</strong> Dijes de resina, esmaltados, chapados en oro.</li>
+        <li><strong>Straps y Llaveros:</strong> Diseños para celular, mochilas o llaves.</li>
+    </ul>
+
+    <hr>
+
+    <h2>Pedidos</h2>
+    <p>Realiza tu pedido a través de Instagram. Opciones de pago: Efectivo o transferencia.</p>
+
+    <hr>
+
+    <h2>Contacto</h2>
+    <p>Síguenos en Instagram para conocer más modelos y solicitar personalizaciones.</p>
+    <img src="IMG/igg.png" alt="Collares personalizados de AccMich" width="50">
+
+    <h2>&copy; &reg;</h2>
+
+</body>
+</html>
+
